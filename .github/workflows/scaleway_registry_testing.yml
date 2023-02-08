@@ -2,7 +2,7 @@ name: 'Build and Push to SCW Testing Registry'
 
 on:
   push:
-    branches: [ kubernetes ]
+    branches: [ scaleway ]
 
 concurrency:
   group: ${{ github.head_ref || github.ref_name }}
