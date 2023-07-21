@@ -64,8 +64,8 @@
 				<bas:Hausnummer_Postfachnummer>7b-c</bas:Hausnummer_Postfachnummer>
 				<bas:PLZ>45127</bas:PLZ>
 				<bas:Ort>Essen</bas:Ort>
-				<bas:Kontaktdaten_Technisch_Telefon>+49 5132 83051 589</bas:Kontaktdaten_Technisch_Telefon>
-				<bas:Kontaktdaten_Technisch_EMail>dav-service@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
+				<bas:Kontaktdaten_Technisch_Telefon>+49 5132 8629 379</bas:Kontaktdaten_Technisch_Telefon>
+				<bas:Kontaktdaten_Technisch_EMail>eservice@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
 		<n1:Krankenkasseninformation Nummer="ID5">
 				<bas:Kostentraegerkuerzel>CD</bas:Kostentraegerkuerzel>
@@ -195,8 +195,8 @@
 				<bas:Hausnummer_Postfachnummer>2</bas:Hausnummer_Postfachnummer>
 				<bas:PLZ>20097</bas:PLZ>
 				<bas:Ort>Hamburg</bas:Ort>
-				<bas:Kontaktdaten_Technisch_Telefon>+49 5132 83051 589</bas:Kontaktdaten_Technisch_Telefon>
-				<bas:Kontaktdaten_Technisch_EMail>dav-service@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
+				<bas:Kontaktdaten_Technisch_Telefon>+49 5132 8629 379</bas:Kontaktdaten_Technisch_Telefon>
+				<bas:Kontaktdaten_Technisch_EMail>eservice@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
 		<n1:Krankenkasseninformation Nummer="ID13">
 				<bas:Kostentraegerkuerzel>DK</bas:Kostentraegerkuerzel>
@@ -316,7 +316,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800-24862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID20">
+		<n1:Krankenkasseninformation Nummer="ID20" gueltig_bis="2021-12-31" nachfolge_kostentraegerkuerzel="B6">
 				<bas:Kostentraegerkuerzel>DP</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>107836243</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>Wieland BKK</bas:Name_des_Kostentraegers>
@@ -349,7 +349,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800-24862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID22">
+		<n1:Krankenkasseninformation Nummer="ID22" gueltig_bis="2021-12-31" nachfolge_kostentraegerkuerzel="BM">
 				<bas:Kostentraegerkuerzel>BG</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>103725547</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>BKK Herford Minden Ravensberg</bas:Name_des_Kostentraegers>
@@ -409,7 +409,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800-24862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID26">
+		<n1:Krankenkasseninformation Nummer="ID26" gueltig_bis="2021-12-31" nachfolge_kostentraegerkuerzel="DB">
 				<bas:Kostentraegerkuerzel>DG</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>103525567</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>SIEMAG BKK</bas:Name_des_Kostentraegers>
@@ -522,8 +522,8 @@
 				<bas:Hausnummer_Postfachnummer>Posteingang</bas:Hausnummer_Postfachnummer>
 				<bas:PLZ>45064</bas:PLZ>
 				<bas:Ort>Essen</bas:Ort>
-				<bas:Kontaktdaten_Technisch_Telefon>05132 83051 589</bas:Kontaktdaten_Technisch_Telefon>
-				<bas:Kontaktdaten_Technisch_EMail>dav-service@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
+				<bas:Kontaktdaten_Technisch_Telefon>05132 8629 379</bas:Kontaktdaten_Technisch_Telefon>
+				<bas:Kontaktdaten_Technisch_EMail>eservice@mobil-isc.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
 		<n1:Krankenkasseninformation Nummer="ID33">
 				<bas:Kostentraegerkuerzel>AU</bas:Kostentraegerkuerzel>
@@ -786,7 +786,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>080024862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID49">
+		<n1:Krankenkasseninformation Nummer="ID49" gueltig_bis="2020-12-31" nachfolge_kostentraegerkuerzel="AV">
 				<bas:Kostentraegerkuerzel>AA</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>104127692</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>actimonda BKK</bas:Name_des_Kostentraegers>
@@ -881,7 +881,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800-24862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID55">
+		<n1:Krankenkasseninformation Nummer="ID55" gueltig_bis="2020-12-31" nachfolge_kostentraegerkuerzel="CP">
 				<bas:Kostentraegerkuerzel>AN</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>103121013</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>atlas BKK ahlmann</bas:Name_des_Kostentraegers>
@@ -1355,7 +1355,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800-24862725</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>servicedesk@bitmarck.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID84">
+		<n1:Krankenkasseninformation Nummer="ID84" gueltig_bis="2021-12-31" nachfolge_kostentraegerkuerzel="CR">
 				<bas:Kostentraegerkuerzel>BW</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>102131240</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>BKK RWE</bas:Name_des_Kostentraegers>
@@ -1488,7 +1488,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0800 2653662</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>KUB-M-DiGA@kubus-it.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID92">
+		<n1:Krankenkasseninformation Nummer="ID92" gueltig_bis="2021-12-31" nachfolge_kostentraegerkuerzel="CO">
 				<bas:Kostentraegerkuerzel>BE</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>104424830</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>BKK GRILLO-WERKE AG</bas:Name_des_Kostentraegers>
@@ -1671,7 +1671,7 @@
 				<bas:Kontaktdaten_Technisch_Telefon>0511 67557 17263</bas:Kontaktdaten_Technisch_Telefon>
 				<bas:Kontaktdaten_Technisch_EMail>ARGE-AOK-DIGA@nds.aok.de</bas:Kontaktdaten_Technisch_EMail>
 		</n1:Krankenkasseninformation>
-		<n1:Krankenkasseninformation Nummer="ID103">
+		<n1:Krankenkasseninformation Nummer="ID103" gueltig_bis="2021-10-31" nachfolge_kostentraegerkuerzel="DO">
 				<bas:Kostentraegerkuerzel>AW</bas:Kostentraegerkuerzel>
 				<bas:Kostentraegerkennung>103525909</bas:Kostentraegerkennung>
 				<bas:Name_des_Kostentraegers>BKK Achenbach Buschhütten</bas:Name_des_Kostentraegers>
